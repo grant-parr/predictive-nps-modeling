@@ -2,6 +2,10 @@
 
 # Predictive Modeling of Fan Satisfaction (NPS)
 
+## Repository Structure
+
+- `nps_model.py` → regression model for predicting NPS  
+- `data/sample_nps_data.csv` → example dataset used for modeling  
 ## Overview
 This project develops a predictive model to estimate **Net Promoter Score (NPS)** for sporting events using operational and contextual data.
 
